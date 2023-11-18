@@ -2,7 +2,7 @@ import speech_recognition as sr
 from openai import OpenAI
 import pygame
 
-api_key = "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"
+api_key = "YOUR_OPENAI_KEY"
 client = OpenAI(api_key=api_key)
 
 recognizer = sr.Recognizer()
