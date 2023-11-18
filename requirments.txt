@@ -1,0 +1,3 @@
+pip install SpeechRecognition
+pip install PyAudio
+pip install openai
